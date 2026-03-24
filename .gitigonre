@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files
+data/raw/
+data/processed/
+
+# ML models
+ml/model.pkl
+
+# Logs
+logs/
+
+# VS Code settings
+.vscode/
